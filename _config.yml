@@ -8,9 +8,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/bravotty"
-footer_text: "Page design by Ankit Sultana! Because im a Gamer!"
-
-# remote_theme: ankitsultana/researcher@gem
+footer_text: "Page design by Ankit Sultana! Because im a rookie!"
 
 sass:
     style: compressed

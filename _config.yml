@@ -3,13 +3,13 @@ url: "https://bravotty.github.io/"
 # baseurl: "/researcher"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/bravotty"
+footer_text: "Page design by Ankit Sultana! This is fu**ing TRLSE"
 
 remote_theme: ankitsultana/researcher@gem
 

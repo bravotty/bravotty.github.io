@@ -10,7 +10,7 @@ footer: yes
 footer_url: "https://github.com/bravotty"
 footer_text: "Page design by Ankit Sultana! Because im a Gamer!"
 
-remote_theme: ankitsultana/researcher@gem
+# remote_theme: ankitsultana/researcher@gem
 
 sass:
     style: compressed

@@ -1,15 +1,14 @@
-title: Researcher
+title: Bravotty
 url: "https://bravotty.github.io/"
-# baseurl: "/researcher"
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+# ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/bravotty"
-footer_text: "Page design by Ankit Sultana! This is fucking TRLSE"
+footer_text: "Page design by Ankit Sultana! Because im a Gamer!"
 
 remote_theme: ankitsultana/researcher@gem
 
@@ -19,8 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: ""
  - name: "Contact"
    link: "contact"
+

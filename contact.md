@@ -3,24 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [tychen@m.scnu.edu.cn](mailto:tychen@m.scnu.edu.cn)
 
-* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> HEMC  (*Higher Education Mega Center*)
 >
-> London
+> GuangZhou
 >
-> United Kingdom
+> China
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+A Monk

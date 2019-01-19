@@ -14,7 +14,7 @@ CV IP er-hu?!
 
 ## Publications
 
-1. Tianyi Chen and Chengzhou Fu. **Single-image-based Rain Detection and Removal via CNN.** Journal of Physics: Conference Series. Vol. 1004. No. 1. 2018.[][pdf](http://iopscience.iop.org/article/10.1088/1742-6596/1004/1/012007/pdf)
+1. Tianyi Chen and Chengzhou Fu. **Single-image-based Rain Detection and Removal via CNN.** Journal of Physics: Conference Series. Vol. 1004. No. 1. 2018.[[pdf]](http://iopscience.iop.org/article/10.1088/1742-6596/1004/1/012007/pdf)
 2. XXX
 
 ## Typography

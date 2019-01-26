@@ -10,7 +10,7 @@ I am a senior year student of Computer Science at South China Normal University,
 
 ## Research Interest
 
-CV IP er-hu?!
+CV IP CC IR
 
 ## Publications
 

@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [tychen@m.scnu.edu.cn](mailto:tychen@m.scnu.edu.cn)
+* Email: [bravotty@protonmail.com](mailto:bravotty@protonmail.com)
 
 
 ---

@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="xiaogangji.jpg">
+<img class="profile-picture" src="fig.jpg">
 
 I am a senior year student of Computer Science at South China Normal University, Guangzhou, China.
 
